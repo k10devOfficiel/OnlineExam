@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\OnlineExam\bin\Debug\OnlineExam.exe.config
+C:\Users\Lenovo\source\repos\OnlineExam\bin\Debug\OnlineExam.exe
+C:\Users\Lenovo\source\repos\OnlineExam\bin\Debug\OnlineExam.pdb
+C:\Users\Lenovo\source\repos\OnlineExam\bin\Debug\OnlineExam.xml
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.Form1.resources
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.Resources.resources
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.exe
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.xml
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.pdb
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.frmAdmin.resources
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.frmCandidat.resources
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.frmNote.resources
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.frmResultat.resources
+C:\Users\Lenovo\source\repos\OnlineExam\obj\Debug\OnlineExam.frmvoirenote.resources

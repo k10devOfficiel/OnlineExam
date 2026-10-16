@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmvoirenote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmvoirenote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|c:\\users\\lenovo\\desktop\\onlineexamv2\\onlineexam\\frmresultat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmresultat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmnote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmnote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmvoirenote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmvoirenote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmresultat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmresultat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmnote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmnote.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmcandidat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmcandidat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmcandidat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9206770-DB81-4F9A-9CE8-80A294DFA2DE}|OnlineExam.vbproj|solutionrelative:frmcandidat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmvoirenote.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmvoirenote.vb",
+              "RelativeDocumentMoniker": "frmvoirenote.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmvoirenote.vb",
+              "RelativeToolTip": "frmvoirenote.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-18T19:54:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmvoirenote.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmvoirenote.vb",
+              "RelativeDocumentMoniker": "frmvoirenote.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmvoirenote.vb [Design]",
+              "RelativeToolTip": "frmvoirenote.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-18T19:54:43.842Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNote.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmNote.vb",
+              "RelativeDocumentMoniker": "frmNote.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OnlineExam\\frmNote.vb*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\OnlineExam\\frmNote.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-18T00:59:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmResultat.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmResultat.vb",
+              "RelativeDocumentMoniker": "frmResultat.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmResultat.vb",
+              "RelativeToolTip": "frmResultat.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-18T13:18:03.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmAdmin.vb",
+              "RelativeDocumentMoniker": "frmAdmin.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OnlineExam\\frmAdmin.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\OnlineExam\\frmAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T17:41:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmResultat.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmResultat.vb",
+              "RelativeDocumentMoniker": "frmResultat.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OnlineExam\\frmResultat.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\OnlineExam\\frmResultat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-18T13:18:00.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmAdmin.vb",
+              "RelativeDocumentMoniker": "frmAdmin.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmAdmin.vb",
+              "RelativeToolTip": "frmAdmin.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T17:41:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNote.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmNote.vb",
+              "RelativeDocumentMoniker": "frmNote.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OnlineExam\\frmNote.vb [Design]*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\OnlineExam\\frmNote.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-18T00:59:00.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T17:36:39.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCandidat.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmCandidat.vb",
+              "RelativeDocumentMoniker": "frmCandidat.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmCandidat.vb",
+              "RelativeToolTip": "frmCandidat.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T23:06:22.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OnlineExam\\Form1.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\OnlineExam\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T17:22:32.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T23:41:31.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCandidat.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OnlineExamV2\\OnlineExam\\frmCandidat.vb",
+              "RelativeDocumentMoniker": "frmCandidat.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OnlineExam\\frmCandidat.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\OnlineExam\\frmCandidat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:59:07.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
